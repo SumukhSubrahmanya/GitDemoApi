@@ -22,6 +22,9 @@ public class DynamicJson {
 		JsonPath js = ReUsableMethods.rawToJson(response);
 		String id = js.get("ID");
 		System.out.println(id);
+		System.out.println("Git Test 1");
+		System.out.println("Git Test 2");
+		System.out.println("Git Test 3");
 	}
 	
 	@DataProvider(name="BooksData")
@@ -41,5 +44,7 @@ public class DynamicJson {
 		
 		System.out.println(response);
 	}
+	
+	
 
 }

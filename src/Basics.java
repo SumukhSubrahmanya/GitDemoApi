@@ -81,6 +81,9 @@ public class Basics {
 		//Cucumber , TestNG , JUint
 		Assert.assertEquals(newAddress, actualAddress);
 		
+		System.out.println("Git Test 1");
+		System.out.println("Git Test 2");
+		System.out.println("Git Test 3");
 
 	}
 
