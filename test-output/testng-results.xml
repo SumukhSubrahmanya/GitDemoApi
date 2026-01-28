@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-18T15:35:48 IST" name="Default suite" finished-at="2026-01-18T15:35:50 IST" duration-ms="2202">
+    <groups>
+    </groups>
+    <test started-at="2026-01-18T15:35:48 IST" name="Default test" finished-at="2026-01-18T15:35:50 IST" duration-ms="2202">
+      <class name="files.DynamicJson">
+        <test-method signature="AddBook(java.lang.String,java.lang.String)[pri:0, instance:files.DynamicJson@f6efaab]" started-at="2026-01-18T15:35:48 IST" name="AddBook" data-provider="BooksData" finished-at="2026-01-18T15:35:49 IST" duration-ms="1441" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fg8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[srgjk8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddBook -->
+        <test-method signature="AddBook(java.lang.String,java.lang.String)[pri:0, instance:files.DynamicJson@f6efaab]" started-at="2026-01-18T15:35:49 IST" name="AddBook" data-provider="BooksData" finished-at="2026-01-18T15:35:50 IST" duration-ms="150" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fssg]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gheha8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddBook -->
+        <test-method signature="AddBook(java.lang.String,java.lang.String)[pri:0, instance:files.DynamicJson@f6efaab]" started-at="2026-01-18T15:35:50 IST" name="AddBook" data-provider="BooksData" finished-at="2026-01-18T15:35:50 IST" duration-ms="162" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hjsfs8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hfjju]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddBook -->
+        <test-method signature="DeleteBook(java.lang.String,java.lang.String)[pri:0, instance:files.DynamicJson@f6efaab]" started-at="2026-01-18T15:35:50 IST" name="DeleteBook" data-provider="BooksData" finished-at="2026-01-18T15:35:50 IST" duration-ms="162" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fg8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[srgjk8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteBook -->
+        <test-method signature="DeleteBook(java.lang.String,java.lang.String)[pri:0, instance:files.DynamicJson@f6efaab]" started-at="2026-01-18T15:35:50 IST" name="DeleteBook" data-provider="BooksData" finished-at="2026-01-18T15:35:50 IST" duration-ms="154" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fssg]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gheha8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteBook -->
+        <test-method signature="DeleteBook(java.lang.String,java.lang.String)[pri:0, instance:files.DynamicJson@f6efaab]" started-at="2026-01-18T15:35:50 IST" name="DeleteBook" data-provider="BooksData" finished-at="2026-01-18T15:35:50 IST" duration-ms="99" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hjsfs8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hfjju]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteBook -->
+      </class> <!-- files.DynamicJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
